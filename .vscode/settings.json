@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/533fd6c3-3dc8-4676-abed-40c4c38d0d24/AppServices/subscriptions/533fd6c3-3dc8-4676-abed-40c4c38d0d24/resourceGroups/CradTechSites/providers/Microsoft.Web/sites/Cradtech",
+    "appService.deploySubpath": "."
+}
