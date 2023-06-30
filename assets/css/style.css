@@ -416,7 +416,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../PADsPics/BannerImg.JPG") top center;
+  /* background: url("../PADsPics/BannerImg.JPG") top center; */
+  background: url("../PADsPics/NewBanner.JPG") top center;
   background-size: cover;
   position: relative;
 }
